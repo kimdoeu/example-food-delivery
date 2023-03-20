@@ -6,7 +6,21 @@
 이는 클라우드 네이티브 애플리케이션의 개발에 요구되는 체크포인트들을 통과하기 위한 예시 답안을 포함합니다.
 - 체크포인트 : https://workflowy.com/s/assessment-check-po/T5YrzcMewfo4J6LW
 
-![image](https://user-images.githubusercontent.com/127805722/226318224-e158aaa4-b522-4607-b450-6f4426f756ce.png)
+* 모델링
+![image](https://user-images.githubusercontent.com/127805722/226327061-52909125-382d-46da-af6c-bfd59ce21abf.png)
+
+1. Saga (Pub/Sub)
+![image](https://user-images.githubusercontent.com/127805722/226319333-2d08413c-747c-4ebe-80e7-c36aa2f4f643.png)
+
+2. CQRS
+![image](https://user-images.githubusercontent.com/127805722/226319445-b5a8b174-d34e-4714-9f08-572d414adb59.png)
+![image](https://user-images.githubusercontent.com/127805722/226319509-8d5306e2-cded-4463-bcd7-f2db537c9ea9.png)
+![image](https://user-images.githubusercontent.com/127805722/226319565-94b07467-6908-49df-a58f-2b0a536e6606.png)
+![image](https://user-images.githubusercontent.com/127805722/226319725-6797223c-23af-48c5-ad7f-d0c7b6a31256.png)
+
+3. Compensation/Correlation
+![image](https://user-images.githubusercontent.com/127805722/226319829-6b4b8a47-60d4-45af-a535-c1b959b894a6.png)
+
 
 # Table of contents
 
